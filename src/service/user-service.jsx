@@ -47,6 +47,7 @@ class User {
             url: '/user/logout.do'
         });
     }
+    // 获取用户信息列表
     getUserList(pageNum) {
         return _mm.request({
             type: 'post',
