@@ -1,2 +1,3 @@
 # business
-react + redux
+
+react + redux + bootstrap + sass + jquery
